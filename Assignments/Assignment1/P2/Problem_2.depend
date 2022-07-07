@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1555481340 source:e:\facultate\1.2\proiectarea algoritmilor\assigment\assigment_1\problem_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"problem_2.h"
+
+1555444283 e:\facultate\1.2\proiectarea algoritmilor\assigment\assigment_1\problem_2\problem_2.h
+
+1555959169 source:e:\facultate\1.2\proiectarea algoritmilor\assignment\assigment_1\problem_2\problem_2.c
+	<stdio.h>
+	<stdlib.h>
+
+1555959226 source:e:\facultate\1.2\proiectarea algoritmilor\assignment\assigment_1\problem_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"problem_2.h"
+
+1555958542 e:\facultate\1.2\proiectarea algoritmilor\assignment\assigment_1\problem_2\problem_2.h
+

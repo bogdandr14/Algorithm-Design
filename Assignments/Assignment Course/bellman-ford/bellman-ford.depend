@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1559503811 source:e:\facultate\1.2\proiectarea algoritmilor\assignment\course assignment\bellman-ford\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"bellman_ford.h"
+
+1559503854 source:e:\facultate\1.2\proiectarea algoritmilor\assignment\course assignment\bellman-ford\bellman_ford.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"bellman_ford.h"
+
+1559503805 e:\facultate\1.2\proiectarea algoritmilor\assignment\course assignment\bellman-ford\bellman_ford.h
+

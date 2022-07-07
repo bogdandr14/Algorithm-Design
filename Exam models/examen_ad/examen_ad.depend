@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1561228707 source:e:\facultate\1.2\proiectarea algoritmilor\examen_ad\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

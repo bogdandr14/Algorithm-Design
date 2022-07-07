@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1555595240 source:e:\facultate\1.2\proiectarea algoritmilor\assigment\assigment_1\problem_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	"problem_1.h"
+
+1555487395 e:\facultate\1.2\proiectarea algoritmilor\assigment\assigment_1\problem_1\problem_1.h
+
+1555592354 source:e:\facultate\1.2\proiectarea algoritmilor\assigment\assigment_1\problem_1\problem_1.c
+	<stdio.h>
+	<stdlib.h>
+
+1555615369 source:d:\facultate\1.2\proiectarea algoritmilor\assignment\assigment_1\problem_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	"problem_1.h"
+
+1555592126 d:\facultate\1.2\proiectarea algoritmilor\assignment\assigment_1\problem_1\problem_1.h
+
+1555615474 source:d:\facultate\1.2\proiectarea algoritmilor\assignment\assigment_1\problem_1\problem_1.c
+	<stdio.h>
+	<stdlib.h>
+
+1555944804 source:e:\facultate\1.2\proiectarea algoritmilor\assignment\assigment_1\problem_1\problem_1.c
+	<stdio.h>
+	<stdlib.h>
+
+1555946664 source:e:\facultate\1.2\proiectarea algoritmilor\assignment\assigment_1\problem_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	"problem_1.h"
+
+1555845680 e:\facultate\1.2\proiectarea algoritmilor\assignment\assigment_1\problem_1\problem_1.h
+
+1555947084 source:e:\facultate\1.2\proiectarea algoritmilor\assignment\assigment_1\pa-cr1.2a-draghici-bogdan-laboratory-assignment-1\p1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	"problem_1.h"
+
+1555845680 e:\facultate\1.2\proiectarea algoritmilor\assignment\assigment_1\pa-cr1.2a-draghici-bogdan-laboratory-assignment-1\p1\problem_1.h
+
+1555944804 source:e:\facultate\1.2\proiectarea algoritmilor\assignment\assigment_1\pa-cr1.2a-draghici-bogdan-laboratory-assignment-1\p1\problem_1.c
+	<stdio.h>
+	<stdlib.h>
+

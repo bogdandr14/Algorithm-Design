@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1558290262 source:e:\facultate\1.2\proiectarea algoritmilor\assignment\assignment_2\p2\main.c
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<math.h>
+	"P2.h"
+
+1558286840 e:\facultate\1.2\proiectarea algoritmilor\assignment\assignment_2\p2\p2.h
+
+1558287263 source:e:\facultate\1.2\proiectarea algoritmilor\assignment\assignment_2\p2\p2.c
+	<stdio.h>
+	<stdlib.h>
+	"P2.h"
+

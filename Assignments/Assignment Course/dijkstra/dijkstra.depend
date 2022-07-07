@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1559497992 source:e:\facultate\1.2\proiectarea algoritmilor\assignment\course assignment\dijkstra\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"dijkstra.h"
+
+1559503484 source:e:\facultate\1.2\proiectarea algoritmilor\assignment\course assignment\dijkstra\dijkstra.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"dijkstra.h"
+
+1559503457 e:\facultate\1.2\proiectarea algoritmilor\assignment\course assignment\dijkstra\dijkstra.h
+
